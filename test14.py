@@ -1,5 +1,5 @@
 #Sets in python
-print("All about sets")
+
 l=[1,2,3,4,5,4,3,2,4,5,6]
 a=set(l)
 print(a)
